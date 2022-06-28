@@ -32,3 +32,12 @@
 ```
 json-server --watch archivo.json
 ```
+
+## POSTMAN
+
+**Si queremos coger el email con postman ponemos:**
+
+```
+//si existe da un arreglo con los datos, sino existe da un arreglo vacio
+http://localhost:3000/usuarios?q=test1
+```
