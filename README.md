@@ -28,3 +28,7 @@
 ```
 
 2. vamos al cmd y vamos a nuestra carpeta y ponemos
+
+```
+json-server --watch archivo.json
+```
